@@ -130,7 +130,7 @@ input[type=checkbox]{
    /* BANNER */
 
 .banner {
-    background-image: url("/Users/irinamarikhina/Documents/Codecademy/git_projects/Event_Agency/resources/banner-1.jpeg");
+    background-image: url("resources/banner-1.jpeg");
     background-size: cover;
     background-repeat: space;
     background-position: top;
@@ -209,19 +209,19 @@ input[type=checkbox]{
 }
 
 #product-1 {
-    background-image: url("/Users/irinamarikhina/Documents/Codecademy/git_projects/Event_Agency/resources/full-event.jpeg");
+    background-image: url("resources/full-event.jpeg");
 }
 
 #product-2 {
-    background-image: url("/Users/irinamarikhina/Documents/Codecademy/git_projects/Event_Agency/resources/product-2.jpeg");
+    background-image: url("resources/product-2.jpeg");
 }
 
 #product-3 {
-    background-image: url("/Users/irinamarikhina/Documents/Codecademy/git_projects/Event_Agency/resources/product-3.jpeg");
+    background-image: url("resources/product-3.jpeg");
 }
 
 #product-4 {
-    background-image: url("/Users/irinamarikhina/Documents/Codecademy/git_projects/Event_Agency/resources/product-4.jpeg");
+    background-image: url("resources/product-4.jpeg");
 }
 
 
